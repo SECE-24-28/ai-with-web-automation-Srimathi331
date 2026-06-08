@@ -1,6 +1,0 @@
-pdfplumber
-sentence-transformers
-faiss-cpu
-scikit-learn
-groq
-numpy
